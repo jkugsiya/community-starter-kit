@@ -33,6 +33,6 @@ firstPRMergeComment: >
 # It is recommended to include as many gifs and emojis as possible!
 ```
 
-### Example Messages
+Heyy! How Are You?
 
 CONFIGS PLACEHOLDER
