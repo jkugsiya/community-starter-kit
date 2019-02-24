@@ -1,2 +1,3 @@
 CONTRIBUTOR CODE
 ([INSERT EMAIL ADDRESS])
+code-of-conduct.md
